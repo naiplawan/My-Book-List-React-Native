@@ -38,7 +38,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Demo
 
-You can check out a live demo of the application [here](https://your-demo-link.com).
+<img width="594" alt="Screenshot 2566-10-31 at 14 00 21" src="https://github.com/naiplawan/My-Book-List-React-Native/assets/124332198/d9476e24-833b-4ca5-868e-af71ecb65478">
 
 ## Expo Router Example
 
